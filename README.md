@@ -46,3 +46,5 @@ A third party thing that makes watching forsen reactions a little bit better.
 - This only works on [Forsen's Giftbox](https://www.youtube.com/c/ForsensGiftbox). Every feature will be disabled if you go to a different channel's video.
 
 - You may read my original announcement post about this here: https://www.youtube.com/post/Ugkx0n-VhnNX5TmJjCkCjvi2FXyKu0NFYkLD
+
+- You may post issues/bugs you encounter in the [Issues section](https://github.com/Aayzie/forsens-giftbox-lidl-extension/issues) of this github page. I will try to fix them as soon as possible :)

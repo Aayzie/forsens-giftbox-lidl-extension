@@ -13,7 +13,7 @@ A third party thing that makes watching forsen reactions a little bit better.
 
 ![emotes-popup](https://user-images.githubusercontent.com/16715946/146497495-654f54cd-15b5-4c38-9ae8-627fcc888354.png)
 
-- You may enable or disable Emotes in the settings (You must refresh the page first for it to take effect.)
+- You may enable or disable Emotes in the settings (You must refresh the page first for it to take effect).
 
 ---
 
@@ -29,7 +29,7 @@ A third party thing that makes watching forsen reactions a little bit better.
   
     > 0:30 LULW WTF?!
 
-- You may enable or disable In-video Comments in the settings
+- You may enable or disable In-video Comments in the settings.
 
 ---
 
@@ -39,7 +39,7 @@ A third party thing that makes watching forsen reactions a little bit better.
 
 ![rich-description](https://user-images.githubusercontent.com/16715946/146497795-c844789e-8f02-464a-87da-fbad5c3c4b27.png)
 
-- You may enable or disable Rich Descriptions in the settings (You must refresh the page first for it to take effect.)
+- You may enable or disable Rich Descriptions in the settings (You must refresh the page first for it to take effect).
 
 ## Notes
 

@@ -1,7 +1,7 @@
 # forsens-giftbox-lidl-extension
 A third party thing that makes watching forsen reactions a little bit better.
 
-## Features (Work in Progress)
+## Features
 
 ### Emotes
 
@@ -43,6 +43,6 @@ A third party thing that makes watching forsen reactions a little bit better.
 
 ## Notes
 
-- This only works on Forsen's Giftbox. Every feature will be disabled if you go to a different channel's video.
+- This only works on [Forsen's Giftbox](https://www.youtube.com/c/ForsensGiftbox). Every feature will be disabled if you go to a different channel's video.
 
 - You may read my original announcement post about this here: https://www.youtube.com/post/Ugkx0n-VhnNX5TmJjCkCjvi2FXyKu0NFYkLD

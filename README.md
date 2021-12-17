@@ -1,6 +1,12 @@
 # forsens-giftbox-lidl-extension
 A third party thing that makes watching forsen reactions and playthroughs a little bit better.
 
+## Download Links
+
+[Chrome / Chromium Version](https://chrome.google.com/webstore/detail/forsens-giftbox-lidl-exte/oobgojiochekabnidddglbpbikhnfidb)
+
+[Firefox Version](https://addons.mozilla.org/en-US/firefox/addon/forsens-giftbox-lidl-extension/)
+
 ## Features
 
 ### Emotes

@@ -37,7 +37,7 @@ A third party thing that makes watching forsen reactions and playthroughs a litt
 
 - This feature makes the description box look nicer.
 
-![rich-description-2](https://user-images.githubusercontent.com/16715946/146500135-049d3c94-3a40-4bf9-976c-802ea3a79ade.png)
+![rich-description-2](https://user-images.githubusercontent.com/16715946/146500683-4207b9b3-4d5d-4fe7-9c80-11d8b193e26c.png)
 
 - You may enable or disable Rich Descriptions in the settings (You must refresh the page first for it to take effect).
 

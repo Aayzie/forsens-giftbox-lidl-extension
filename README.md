@@ -1,5 +1,5 @@
 # forsens-giftbox-lidl-extension
-A third party thing that makes watching forsen reactions a little bit better.
+A third party thing that makes watching forsen reactions and playthroughs a little bit better.
 
 ## Features
 
@@ -37,16 +37,16 @@ A third party thing that makes watching forsen reactions a little bit better.
 
 - This feature makes the description box look nicer.
 
-![rich-description](https://user-images.githubusercontent.com/16715946/146497795-c844789e-8f02-464a-87da-fbad5c3c4b27.png)
+![rich-description-2](https://user-images.githubusercontent.com/16715946/146500135-049d3c94-3a40-4bf9-976c-802ea3a79ade.png)
 
 - You may enable or disable Rich Descriptions in the settings (You must refresh the page first for it to take effect).
 
 ## Notes
 
-- This only works on [Forsen's Giftbox](https://www.youtube.com/c/ForsensGiftbox). Every feature will be disabled if you go to a different channel's video.
+- This extension only works on [Forsen's Giftbox](https://www.youtube.com/c/ForsensGiftbox). Every feature will be disabled if you go to a different channel's video.
 
 - You may read my original announcement post about this here: https://www.youtube.com/post/Ugkx0n-VhnNX5TmJjCkCjvi2FXyKu0NFYkLD
 
 - You may post issues/bugs you encounter in the [Issues section](https://github.com/Aayzie/forsens-giftbox-lidl-extension/issues) of this github page. I will try to fix them as soon as possible :)
 
-  - Please include the browser you were using as well as other extensions you have that you think may have interfered with this one.
+  - Please include the browser you were using as well as other extensions you have installed that you think may have interfered with this one.

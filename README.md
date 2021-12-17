@@ -48,5 +48,4 @@ A third party thing that makes watching forsen reactions and playthroughs a litt
 - You may read my original announcement post about this here: https://www.youtube.com/post/Ugkx0n-VhnNX5TmJjCkCjvi2FXyKu0NFYkLD
 
 - You may post issues/bugs you encounter in the [Issues section](https://github.com/Aayzie/forsens-giftbox-lidl-extension/issues) of this github page. I will try to fix them as soon as possible :)
-
-  - Please include the browser you were using as well as other extensions you have installed that you think may have interfered with this one.
+  - Please include the browser you were using when you encountered the bug, as well as other extensions you have installed that you think may have interfered with this one.

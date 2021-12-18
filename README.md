@@ -50,6 +50,7 @@ A third party thing that makes watching forsen reactions and playthroughs a litt
 ## Notes
 
 - This extension only works on [Forsen's Giftbox](https://www.youtube.com/c/ForsensGiftbox). Every feature will be disabled if you go to a different channel's video.
+  - I am thinking of enabling emotes globally, however. We'll see we'll see.
 
 - You may read my original announcement post about this here: https://www.youtube.com/post/Ugkx0n-VhnNX5TmJjCkCjvi2FXyKu0NFYkLD
 

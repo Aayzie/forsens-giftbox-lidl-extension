@@ -56,3 +56,6 @@ A third party thing that makes watching forsen reactions and playthroughs a litt
 
 - You may post issues/bugs you encounter in the [Issues section](https://github.com/Aayzie/forsens-giftbox-lidl-extension/issues) of this github page. I will try to fix them as soon as possible :)
   - Please include the browser you were using when you encountered the bug, as well as what you did before it happened. Ty :)
+
+- Regarding the 'browser history' permission that this extension requires:
+  - If you've noticed, when you visit another video on YouTube, it doesn't actually load a new page, but rather it just changes the url and the contents of the current page. Because of this, the extension needs to detect if the url has changed or not, so that it can detect whether the user has clicked on a different vid. This is used for updating the rich description, detecting whether it's a giftbox video or not, reinitializing the emotes on comments, etc.

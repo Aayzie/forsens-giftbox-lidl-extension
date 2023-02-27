@@ -41,6 +41,8 @@ A third party thing that makes watching forsen reactions and playthroughs a litt
 
 ### Rich Description
 
+<b> (Note: This feature doesn't work anymore) </b>
+
 - This feature makes the description box look nicer.
 
 ![rich-description-2](https://user-images.githubusercontent.com/16715946/146500683-4207b9b3-4d5d-4fe7-9c80-11d8b193e26c.png)
